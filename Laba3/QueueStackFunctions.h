@@ -1,0 +1,9 @@
+#pragma once
+void QueueStackMenu();
+void QueueStackShow();
+void QueueStackReverse();
+void QueueStackAverse();
+void QueueStackInit();
+void QueueStackEnqueue();
+void QueueStackDequeue();
+void QueueStackDelete();
